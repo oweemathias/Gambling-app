@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Gambling App
+
+A decentralized gambling app built with Hardhat, React, and Ethers.js.
+
+## Features
+- Deploy a smart contract to a local blockchain.
+- Interact with the contract using a React frontend.
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/oweemathias/Gambling-app.git
